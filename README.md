@@ -1,7 +1,9 @@
 # Studiu individual planificarea aplicatiilor desktop
+
 ## Realizat de Puica Rina, p-2423
+
 In acest repozitoriu este stocat intregul material pentru studiu individual
----
+
 ## Sarcina: Planifica functionalitatile si design-ul unei aplicatii desktop pentru gestionarea sarcinilor/proiectelor
 
 **Prototipul aplicației** - https://www.figma.com/design/CvfmcVsXgfT2m7zrDoBn3T/Task-Manager-Prototype?m=auto&t=nlMdpqWrSp3VmxKT-6
